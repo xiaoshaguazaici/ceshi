@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../1_spi.srcs/sources_1/new/key_filter.v" \
+"../../../../1_spi.srcs/sources_1/new/spi_drive.v" \
+"../../../../1_spi.srcs/sources_1/new/w25q64.v" \
+"../../../../1_spi.srcs/sim_1/new/w25q64_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

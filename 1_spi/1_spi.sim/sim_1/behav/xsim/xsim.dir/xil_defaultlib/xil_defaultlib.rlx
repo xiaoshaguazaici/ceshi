@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_spi/1_spi.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_spi/1_spi.srcs/sim_1/new/spi_tb.v,1734584967,verilog,,,,spi_tb,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_spi/1_spi.srcs/sim_1/new/w25q64_tb.v,1734528921,verilog,,,,w25q64_tb,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_spi/1_spi.srcs/sources_1/new/key_filter.v,1734528013,verilog,,C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_spi/1_spi.srcs/sources_1/new/spi_drive.v,,key_filter,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_spi/1_spi.srcs/sources_1/new/spi_drive.v,1734584830,verilog,,C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_spi/1_spi.srcs/sim_1/new/spi_tb.v,,spi_diver,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_spi/1_spi.srcs/sources_1/new/w25q64.v,1734531115,verilog,,C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_spi/1_spi.srcs/sim_1/new/w25q64_tb.v,,w25q64,,,,,,,,
